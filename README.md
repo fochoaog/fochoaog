@@ -6,6 +6,9 @@
 - 😄 Pronouns: Personal ...
 - ⚡ Fun fact: Won the MIT Fire Hydrant Award at [MIT - FHA](https://professionalprograms.mit.edu/fire-hydrant-award/) - [My Credential](https://www.credential.net/9bd1b398-1233-4efe-ba86-415ca5dda476#gs.d46jmf) and see [MIT Hacks](https://hacks.mit.edu/) ...
 
+<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
+
+
 <!---
 fochoaog/fochoaog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
